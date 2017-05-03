@@ -1,0 +1,10 @@
+rank-1: 92.08%
+rank-5: 100.00%
+
+             precision    recall  f1-score   support
+
+   plastico       0.96      0.89      0.92        54
+     vidrio       0.88      0.96      0.92        47
+
+avg / total       0.92      0.92      0.92       101
+

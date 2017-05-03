@@ -1,0 +1,11 @@
+{
+  "dataset_path": "/home/lucia/Escritorio/PracticasIA/Proyecto_Botellas/ImagenesPlasticoYVidrio",
+  "features_path": "output/plastico_y_vidrio/features.hdf5",
+  "overfeat_layer_num": -3,
+  "overfeat_fixed_size": [231,231],
+  "overfeat_batch_size": 32,
+  "label_encoder_path": "output/plastico_y_vidrio/le.cpickle",
+  "classifier_path": "output/plastico_y_vidrio/classifier.cpickle",
+  "training_size": 0.75,
+  "results_path": "output/plastico_y_vidrio/results.txt"
+}
